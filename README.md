@@ -39,6 +39,7 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 | 3 | UV Lockfile Fix | ✅ |
 | 4 | ML Project Structure | ✅ |
 | 5 | Makefile Automation | ✅ |
+| 6 | Code Quality Tools | ✅ |
 
 ---
 
