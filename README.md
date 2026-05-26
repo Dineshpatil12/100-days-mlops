@@ -40,6 +40,7 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 | 4 | ML Project Structure | ✅ |
 | 5 | Makefile Automation | ✅ |
 | 6 | Code Quality Tools | ✅ |
+| 7 | Python Package Build | ✅ |
 
 ---
 
@@ -52,6 +53,8 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 ├── Day-03-UV-Lockfile-Fix/
 ├── Day-04-ML-Project-Structure/
 ├── Day-05-ML-Makefile-Automation/
+├── Day-06-Code-Quality-Tools/
+├── Day-07-Python-Package-Build/
 └── README.md
 ```
 
