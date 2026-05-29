@@ -43,6 +43,7 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 | 7 | Python Package Build | ✅ |
 | 8 | Pre-Commit Hooks | ✅ |
 | 9 | Cookiecutter ML Template | ✅ |
+| 10 | Initialize DVC in Existing Git Repository | ✅ |
 
 ---
 
@@ -59,6 +60,7 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 ├── Day-07-Python-Package-Build/
 ├── Day-08-Pre-Commit-Hooks/
 ├── Day-09-Create-a-Custom-ML-Project-Template-with-Cookiecutter/
+├── Day-10-Initialize-DVC-in-Existing-Git-Repository/
 └── README.md
 ```
 
