@@ -44,6 +44,7 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 | 8 | Pre-Commit Hooks | ✅ |
 | 9 | Cookiecutter ML Template | ✅ |
 | 10 | Initialize DVC in Existing Git Repository | ✅ |
+| 11 | Track a Dataset with DVC | ✅ |
 
 ---
 
@@ -61,6 +62,7 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 ├── Day-08-Pre-Commit-Hooks/
 ├── Day-09-Create-a-Custom-ML-Project-Template-with-Cookiecutter/
 ├── Day-10-Initialize-DVC-in-Existing-Git-Repository/
+├── Day-11-Track-a-Dataset-with-DVC/
 └── README.md
 ```
 
