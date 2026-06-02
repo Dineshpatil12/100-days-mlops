@@ -46,6 +46,7 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 | 10 | Initialize DVC in Existing Git Repository | ✅ |
 | 11 | Track a Dataset with DVC | ✅ |
 | 12 | Configure a DVC Remote Storage | ✅ |
+| 13 | Pull DVC-Tracked Data from Remote | ✅ |
 
 ---
 
@@ -64,7 +65,8 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 ├── Day-09-Create-a-Custom-ML-Project-Template-with-Cookiecutter/
 ├── Day-10-Initialize-DVC-in-Existing-Git-Repository/
 ├── Day-11-Track-a-Dataset-with-DVC/
-├── Day-12-Pull-DVC-Tracked-Data-from-Remote
+├── Day-12-Configure-a-DVC-Remote-Storage/
+├── Day-13-Pull-DVC-Tracked-Data-from-Remote/
 └── README.md
 ```
 
