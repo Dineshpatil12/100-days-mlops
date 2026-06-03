@@ -47,6 +47,7 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 | 11 | Track a Dataset with DVC | ✅ |
 | 12 | Configure a DVC Remote Storage | ✅ |
 | 13 | Pull DVC-Tracked Data from Remote | ✅ |
+| 14 | Create a DVC Pipeline for Data Processing | ✅ |
 
 ---
 
@@ -67,6 +68,7 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 ├── Day-11-Track-a-Dataset-with-DVC/
 ├── Day-12-Configure-a-DVC-Remote-Storage/
 ├── Day-13-Pull-DVC-Tracked-Data-from-Remote/
+├── Day-14-Create-a-DVC-Pipeline-for-Data-Processing/
 └── README.md
 ```
 
