@@ -48,6 +48,7 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 | 12 | Configure a DVC Remote Storage | ✅ |
 | 13 | Pull DVC-Tracked Data from Remote | ✅ |
 | 14 | Create a DVC Pipeline for Data Processing | ✅ |
+| 15 | Parameterize a DVC Pipeline | ✅ |
 
 ---
 
@@ -69,6 +70,7 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 ├── Day-12-Configure-a-DVC-Remote-Storage/
 ├── Day-13-Pull-DVC-Tracked-Data-from-Remote/
 ├── Day-14-Create-a-DVC-Pipeline-for-Data-Processing/
+├── Day-15-Parameterize-DVC-Pipeline/
 └── README.md
 ```
 
