@@ -49,6 +49,7 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 | 13 | Pull DVC-Tracked Data from Remote | ✅ |
 | 14 | Create a DVC Pipeline for Data Processing | ✅ |
 | 15 | Parameterize a DVC Pipeline | ✅ |
+| 16 | Track ML Metrics with DVC | ✅ |
 
 ---
 
@@ -71,6 +72,7 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 ├── Day-13-Pull-DVC-Tracked-Data-from-Remote/
 ├── Day-14-Create-a-DVC-Pipeline-for-Data-Processing/
 ├── Day-15-Parameterize-DVC-Pipeline/
+├── Day-16-Track-ML-Metrics-with-DVC/
 └── README.md
 ```
 
