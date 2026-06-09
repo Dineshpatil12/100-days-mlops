@@ -53,6 +53,7 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 | 17 | Run and Compare DVC Experiments | ✅ |
 | 18 | Version Datasets and Models Across Git Branches | ✅ |
 | 19 | Build Complete DVC ML Pipeline with Remote Storage and Experiments | ✅ |
+| 20 | Install and Start the MLflow Tracking Server | ✅ |
 
 ---
 
@@ -79,6 +80,7 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 ├── Day-17-Run-and-Compare-DVC-Experiments
 ├── Day-18-Version-Datasets-and-Models-Across-Git-Branches/
 ├── Day-19-Fraud-Detection-ML-Pipeline-with-DVC/
+├── Day-20-Install-and-Start-the-MLflow-Tracking-Server/
 └── README.md
 ```
 
