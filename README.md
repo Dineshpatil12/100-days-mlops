@@ -56,6 +56,7 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 | 20 | Install and Start the MLflow Tracking Server | ✅ |
 | 21 | Log an ML Experiment to MLflow | ✅ |
 | 22 | Create and Organize MLflow Experiments | ✅ |
+| 23 | Search and Query MLflow Runs | ✅ |
 
 ---
 
@@ -85,6 +86,7 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 ├── Day-20-Install-and-Start-the-MLflow-Tracking-Server/
 ├── Day-21-Log-an-ML-Experiment-to-MLflow/
 ├── Day-22-Create-and-Organize-MLflow-Experiments/
+├── Day-23-Search-and-Query-MLflow-Runs
 └── README.md
 ```
 
