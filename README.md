@@ -58,6 +58,7 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 | 22 | Create and Organize MLflow Experiments | ✅ |
 | 23 | Search and Query MLflow Runs | ✅ |
 | 24 | Enable MLflow Autologging | ✅ |
+| 25 | Register, Version, and Manage Model Lifecycle | ✅ |
 
 ---
 
@@ -89,6 +90,7 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 ├── Day-22-Create-and-Organize-MLflow-Experiments/
 ├── Day-23-Search-and-Query-MLflow-Runs/
 ├── Day-24-Enable-MLflow-Autologging/
+├── Day-25-Register-Version-and-Manage-Model-Lifecycle/
 └── README.md
 ```
 
