@@ -61,6 +61,7 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 | 25 | Register, Version, and Manage Model Lifecycle | ✅ |
 | 26 | Compare Model Runs and Select the Best | ✅ |
 | 27 | Load Model from Registry with Custom Preprocessing | ✅ |
+| 28 | Fix a Broken MLflow Project and Re-Run It | ✅ |
 
 ---
 
@@ -95,6 +96,7 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 ├── Day-25-Register-Version-and-Manage-Model-Lifecycle/
 ├── Day-26-Compare-Model-Runs-and-Select-the-Best/
 ├── Day-27-Load-Model-from-Registry-with-Custom-Preprocessing/
+├── Day-28-Fix-Broken-MLflow-Project-and-Re-Run-It/
 └── README.md
 ```
 
