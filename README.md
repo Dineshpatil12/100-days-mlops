@@ -62,6 +62,8 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 | 26 | Compare Model Runs and Select the Best | ✅ |
 | 27 | Load Model from Registry with Custom Preprocessing | ✅ |
 | 28 | Fix a Broken MLflow Project and Re-Run It | ✅ |
+| 29 | Configure MLflow with Remote Tracking Server and Artifact Store | ✅ |
+
 
 ---
 
@@ -97,6 +99,7 @@ A hands-on MLOps engineering challenge focused on building production-grade mach
 ├── Day-26-Compare-Model-Runs-and-Select-the-Best/
 ├── Day-27-Load-Model-from-Registry-with-Custom-Preprocessing/
 ├── Day-28-Fix-Broken-MLflow-Project-and-Re-Run-It/
+├── Day-29-Configure-MLflow-with-Remote-Tracking-Server-and-Artifact-Store
 └── README.md
 ```
 
